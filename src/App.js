@@ -1,4 +1,5 @@
 import Menu from './components/Menu';
+import ImgCarta from './components/ImgCarta';
 import Table from './components/Table';
 import './App.css';
 
@@ -7,6 +8,7 @@ function App() {
     <>
       <Menu />
       <Table />
+      <ImgCarta />
     </>
   );  
 }
